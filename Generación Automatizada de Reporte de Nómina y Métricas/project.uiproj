@@ -1,0 +1,6 @@
+{
+  "Name": "Generación Automatizada de Reporte de Nómina y Métricas",
+  "ProjectType": "Process",
+  "Description": "Automatización que lee archivos de Nómina y Métricas, filtra información por NIT, genera un reporte consolidado y envía el resultado por correo electrónico.",
+  "MainFile": "Main.xaml"
+}
